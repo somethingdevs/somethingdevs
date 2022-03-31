@@ -6,6 +6,8 @@
 
 - Computer Science undergrad 
 - Have a look at my portfolio here (lmao whenever I make it)
+- I'll update this when I actually make something worth showing
+- You can contact me [here](mailto://somethingdevs@gmail.com)
 
 <!--
 **somethingdevs/somethingdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
