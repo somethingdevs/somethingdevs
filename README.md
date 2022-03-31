@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Jack of few master of none.
 <!--
 **somethingdevs/somethingdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
