@@ -2,7 +2,7 @@
 
 *Currently...*
 
-<img src="https://user-images.githubusercontent.com/54055822/161075281-e0e340f4-e844-4375-8ea4-aa496b41be71.png" width = 200px height = 200px>
+<img src="https://user-images.githubusercontent.com/54055822/161075281-e0e340f4-e844-4375-8ea4-aa496b41be71.png" width = 300px height = 200px>
 
 - Computer Science undergrad 
 - Have a look at my portfolio here (lmao whenever I make it)
