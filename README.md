@@ -1,6 +1,12 @@
-# Hi there, I'm Stuff 👋
+# Hi there, I'm Ali👋
 
 *Jack of few, master of none*
+
+Currently bing chilling
+
+<img src="https://user-images.githubusercontent.com/54055822/161075281-e0e340f4-e844-4375-8ea4-aa496b41be71.png" width = 200px height = 200px>
+
+
 <!--
 **somethingdevs/somethingdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Computer Science undergrad  
