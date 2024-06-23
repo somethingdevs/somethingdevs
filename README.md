@@ -1,5 +1,7 @@
 # Hi there, I'm Ali👋
 
+### Tears in my eyes 😢, bugs in my code 🐛
+
 *Currently...*
 
 <img src="https://user-images.githubusercontent.com/54055822/161075281-e0e340f4-e844-4375-8ea4-aa496b41be71.png" width = 300px height = 200px>
