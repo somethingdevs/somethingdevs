@@ -2,11 +2,20 @@
 
 ### Tears in my eyes 😢, bugs in my code 🐛
 
-*Currently...*
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=somethingdevs&show_icons=true&theme=dark&rank_icon=github" alt="GitHub stats card"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somethingdevs&layout=compact" alt="Top Languages"></td>
+    </tr>
+  </table>
+</div>
+
+_Currently..._
 
 <img src="https://user-images.githubusercontent.com/54055822/161075281-e0e340f4-e844-4375-8ea4-aa496b41be71.png" width = 300px height = 200px>
 
-- Computer Science undergrad 
+- Computer Science undergrad
 - Have a look at my portfolio here (lmao whenever I make it)
 - I'll update this when I actually make something worth showing
 - You can contact me [here](mailto://somethingdevs@gmail.com)
@@ -26,8 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-
